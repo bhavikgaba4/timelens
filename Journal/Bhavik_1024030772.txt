@@ -1,0 +1,21 @@
+TIMELENS AI PROJECT JOURNAL
+
+Name: Bhavik
+Roll Number: 1024030772
+Project: TimeLens AI
+
+DIVISION OF WORK
+
+1. Defined the problem statement and limitations of static task-management systems.
+2. Developed the project motivation and higher-order objective.
+3. Documented the machine-learning approach, feature set, model selection and cold-start strategy.
+4. Specified the personalization method using estimated and actual task durations.
+5. Refined and documented the dynamic schedule re-alignment logic.
+6. Defined evaluation criteria and KPIs, including MAE, bias reduction, schedule adherence and rebuild latency.
+7. Prepared the risk matrix and mitigation strategies.
+8. Cross-checked the evaluation criteria against the course rubric.
+9. Contributed to requirements, use cases, user stories and analysis documentation.
+
+COLLABORATIVE CONTRIBUTION
+
+Reviewed the proposal and verified that its evaluation plan matched the intended production system.

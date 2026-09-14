@@ -1,0 +1,20 @@
+TIMELENS AI PROJECT JOURNAL
+
+Name: Devyang
+Roll Number: 1024030765
+Project: TimeLens AI
+
+DIVISION OF WORK
+
+1. Developed the TimeLens AI MVP as a working proof of concept.
+2. Built the frontend using Next.js and TypeScript.
+3. Implemented task creation, duration prediction and adaptive scheduling.
+4. Integrated Prisma with SQLite for local data persistence.
+5. Prepared sample task history for demonstrating personalized predictions.
+6. Tested task entry, corrected duration, schedule generation, delay logging and automatic rescheduling.
+7. Designed and prepared the project presentation slides.
+8. Planned the live demonstration and demo-video sequence.
+
+COLLABORATIVE CONTRIBUTION
+
+Reviewed the proposal and ensured consistency between the production documentation and MVP demonstration.

@@ -1,0 +1,20 @@
+TIMELENS AI PROJECT JOURNAL
+
+Name: Vansh Jain
+Roll Number: 1024030770
+Project: TimeLens AI
+
+DIVISION OF WORK
+
+1. Designed and documented the production system architecture and four-phase pipeline.
+2. Specified the API layer, data tier, feature store and model-parameter components.
+3. Prepared the use-case diagram, data-flow diagrams, ER diagram and Gantt chart.
+4. Drafted the implementation timeline, milestone breakdown and phase-wise deliverables.
+5. Documented project scope, scalability and resource-allocation requirements.
+6. Consolidated and structured the production proposal.
+7. Handled LaTeX formatting and proofreading.
+8. Formatted the risk matrix, timeline tables and supporting documentation.
+
+COLLABORATIVE CONTRIBUTION
+
+Reviewed the proposal and checked the consistency of its diagrams, architecture and implementation plan.
