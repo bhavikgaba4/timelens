@@ -2,6 +2,9 @@ node_modules
 .next
 coverage
 *.tsbuildinfo
+.env
+*.db
+*.db-journal
 prisma/*.db
 prisma/*.db-journal
 .env.local
